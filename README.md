@@ -2,7 +2,7 @@
 ## This is an HR group analytic project using power bi to unleashed gender disparities in performance rating, compensation and departmental distribution in palmoria group.
 
 # THE BACKGROUND
-## The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
+##The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
 bordering on gender inequality in its 3 regions. Unfortunately, the media recently
 published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This
 doesn’t look good for the owners of the business, based on their ambition to scale the
