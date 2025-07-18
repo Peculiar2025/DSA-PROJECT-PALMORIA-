@@ -19,7 +19,7 @@ To use data to uncover gender related issue and give recommendations.
 Power bi
 # DATA SOURCE 
 Digital Skill Africa
-# DASHBOARD
+# DASHBOARD OVERVIEW
 
 
 <img width="710" height="422" alt="dashboard palmoria" src="https://github.com/user-attachments/assets/58d29f51-1546-430a-ba8e-14c2788eaf38" />
