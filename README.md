@@ -22,3 +22,8 @@ Digital Skill Africa
 # DASHBOARD
 
 
+<img width="710" height="422" alt="dashboard palmoria" src="https://github.com/user-attachments/assets/58d29f51-1546-430a-ba8e-14c2788eaf38" />
+
+<img width="305" height="243" alt="gender by department graph" src="https://github.com/user-attachments/assets/754e6e9d-7f47-4d00-91f2-67d77116ade6" />
+
+<img width="310" height="221" alt="average salary by gender graph" src="https://github.com/user-attachments/assets/ab10ead7-20b0-4dfa-9074-2efb95f3b8d4" />
