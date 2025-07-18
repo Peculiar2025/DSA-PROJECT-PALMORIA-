@@ -1,8 +1,8 @@
 # DSA-PROJECT-PALMORIA GROUP HR ANALYSIS
-##This is an HR group analytic project using power bi to unleashed gender disparities in performance rating, compensation and departmental distribution in palmoria group.
+This is an HR group analytic project using power bi to unleashed gender disparities in performance rating, compensation and departmental distribution in palmoria group.
 
 # THE BACKGROUND
-##The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
+The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
 bordering on gender inequality in its 3 regions. Unfortunately, the media recently
 published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This
 doesn’t look good for the owners of the business, based on their ambition to scale the
@@ -13,12 +13,12 @@ key areas within the business that could give rise to issues and address them im
 Mr Shofoluwe decided to recruit me as an HR Analytics expert to analyse the company’s HR data.
 
 # OBJECTIVE 
-##To use data to uncover gender related issue and give recommendations.
+To use data to uncover gender related issue and give recommendations.
 
 # TOOL USED
-##Power bi
+Power bi
 # DATA SOURCE 
-##Digital Skill Africa
+Digital Skill Africa
 # DASHBOARD
 
 
